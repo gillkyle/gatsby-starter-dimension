@@ -10,6 +10,8 @@ Gatsby.js V2 starter based on the Dimension site template, designed by HTML5 UP.
 
 https://gatsby-dimension.surge.sh/
 
+[![Edit gatsby-starter-portfolio-cara](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/LeKoArts/gatsby-starter-portfolio-cara/tree/master/)
+
 ## Installation
 
 Install this starter (assuming Gatsby is installed) by running from your CLI:
